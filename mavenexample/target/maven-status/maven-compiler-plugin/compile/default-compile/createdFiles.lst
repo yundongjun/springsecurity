@@ -1,0 +1,5 @@
+com\test\config\LoginSuccessHandler.class
+com\test\controller\LoginController.class
+com\test\controller\AdminController.class
+com\test\controller\MemberController.class
+com\test\controller\TestController.class
